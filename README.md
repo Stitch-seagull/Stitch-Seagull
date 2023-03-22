@@ -1,7 +1,5 @@
 ## <div align = center>💻 I'm Stitch</div>
 
--「💼」16 yo
-
 -「🛠️」Using ["Javascript", "C#"]
 
 -「✏️」Redactor at  DraftBot
