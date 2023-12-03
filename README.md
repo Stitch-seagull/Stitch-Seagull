@@ -1,18 +1,25 @@
-## <div align = center>💻 I'm Stitch</div>
+<div align="center">
+  <h3>👋 About me</h3>
+</div>
 
--「🛠️」Using ["Javascript", "C#"]
+<p style="margin-left: 200px;">
+  🌳 French<br>
+  🎂 17 yo.<br>
+  💻 Learning ["C", "Python", "Javascript"]<br>  
+  🖤 VSC lover
+</p>
 
--「✏️」Redactor at  DraftBot
+<div align="center">
+  <h3>🍇 Contributions</h3>
+</div>
 
-
-## <div align = center>🛠️ Tools</div>
-![Javascript](https://camo.githubusercontent.com/a2042e7183b80291f7a9b360ee5b0390cc7bb4ee163e0304d43659a5000ecba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b)
-
-![Node.js](https://camo.githubusercontent.com/b37d957fad59c6603fe2d92ad99e098a1c6626f8a361ed2241834a9a6e630f14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465)
-![Visual studio code](https://camo.githubusercontent.com/1b9c3034aa078ebfac8da21d4a43ab67da92ad801a08c4b9b04cfecfb54df2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
-![Github](https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
-
-
-## </br><div align = center>GitHub Stats</br>
-
-![GitHub](https://github-readme-stats.vercel.app/api?username=stitch-seagull&show_icons=true&theme=discord_old_blurple)
+<p align="center">
+    <tr>
+      <td style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=Stitch-seagull&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true" />
+      </td>
+      <td style= width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stitch-seagull&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      </td>
+    </tr>
+</p>
