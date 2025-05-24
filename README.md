@@ -4,9 +4,8 @@
 
 <p style="margin-left: 200px;">
   🌳 French<br>
-  🎂 17 yo.<br>
-  💻 Learning ["C", "Python", "Javascript"]<br>  
-  🖤 VSC lover
+  🎂 18 yo.<br>
+  💻 CS Student <br>
 </p>
 
 <div align="center">
